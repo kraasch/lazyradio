@@ -5,7 +5,7 @@ it is a lazy radio station using github and some shell.
 
 ## idea
 
-[allows](allows) you publish your own radio playlist on github.
+allows you publish your own radio playlist on github.
 
 you can listen to the same songs with friends as long as you are tuned into the
 same channels.
